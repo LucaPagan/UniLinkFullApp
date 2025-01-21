@@ -6,10 +6,10 @@ UniLink is an application designed to improve social sustainability and simplify
 Developed in collaboration with the team from the Apple Foundation Program.
 Main contributors:
 
-Luca Pagano
-Riccardo Puggioni
-Francesco Paolo Severino
-Sinem
-Farahnoosh
-Anise Khajuei
-Christian Falanga
+-Luca Pagano
+-Riccardo Puggioni
+-Francesco Paolo Severino
+-Sinem
+-Farahnoosh
+-Anise Khajuei
+-Christian Falanga
